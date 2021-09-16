@@ -1,7 +1,7 @@
 void setup() { 
   size(500, 500); 
   noLoop(); 
-  background(0, 0, 255);
+  background(64, 84, 237);
 } 
 void draw() { 
   for (int y = 700; y > -100; y = y - 70) { 
